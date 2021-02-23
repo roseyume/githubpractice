@@ -1,1 +1,2 @@
-some text from first feature branch
+some text from second feature branch
+
